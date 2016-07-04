@@ -1,31 +1,35 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Assignment solution for Module 2</title>
 <style type="text/css">
-*{
+* {
 	box-sizing: border-box
 }
-.row{
-	100 %
-}
-@media (min-width: 992px) {lg-3:33.3%}
-@media (min-width: 768px) and (max-width: 991px) {md-2:50%}
-@media (max-width: 767px) {sm-1:100%}
-<head>
-	<title>Assignment solution for Module 2</title>
+
+p {color: blue;}
+h1 {text-align: center;}
+
+</style>
 </head>
+
+
 <body>
 <h1>Our Menu</h1>
-<p class="lg-3 md-2 sm-1">
-You say that you love rain,
-but you open your umbrella when it rains...
-You say that you love the sun,
-but you find a shadow spot when the sun shines.
-You say that you love the wind,
-But you close your window when wind blows.
-This is why I am afraid;
-You say that you love me too.
+<div>
+<p>
+You say that you love rain,<br />
+but you open your umbrella when it rains...<br />
+You say that you love the sun,<br />
+but you find a shadow spot when the sun shines.<br />
+You say that you love the wind,<br />
+But you close your window when wind blows.<br />
+This is why I am afraid;<br />
+You say that you love me too.<br />
 </p>
-<p class="lg-3 md-2 sm-1">
+</div>  
+
+<p>
 Shall I compare thee to a summer’s day?
 Thou art more lovely and more temperate.
 Rough winds do shake the darling buds of May,
@@ -41,7 +45,8 @@ When in eternal lines to Time thou grow’st.
      So long as men can breathe, or eyes can see,
      So long lives this, and this gives life to thee.
 </p>
-<p class="lg-3 md-2 sm-1">
+
+<p>
 	I love you once
 I love you twice
 I love you more than beans and rice
