@@ -1,0 +1,190 @@
+<style type="text/css">
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+.row {
+	width: 100%;
+}
+@media (min-width: 992px) {.lg-1, .lg-2, .lg-3, .lg-4, .lg-5, .lg-6, .lg-7, .lg-8, .lg-9, .lg-10, .lg-11, .lg-12 {
+	float: left;
+	border: 1px solid #000000;
+	padding: 2px;
+	margin: 5px;
+	background-color: #43A680;
+	width: 90%;
+	height: 50%;
+	}
+	.lg-1 {
+		width: 8.33%
+	}
+	.lg-2 {
+		width: 16.66%
+	}
+	.lg-3 {
+		width: 25%
+	}
+	.lg-4 {
+		width: 33.33%
+	}
+	.lg-5 {
+		width: 41.66%
+	}
+	.lg-6 {
+		width: 50%
+	}
+	.lg-7 {
+		width: 58.33%
+	}
+	.lg-8 {
+		width: 66.66%
+	}
+	.lg-9 {
+		width: 74.99%
+	}
+	.lg-10 {
+		width: 83.33%
+	}
+	.lg-11 {
+		width: 91.66%
+	}
+	.lg-12 {
+		width: 100%
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {.md-1, .md-2, .md-3, .md-4, .md-5, .md-6, .md-7, .md-8, .md-9, .md-10, .md-11, .md-12 {
+	float: left;
+	border: 1px solid #000000;
+	padding: 2px;
+	margin: 5px;
+	background-color: #74F6A7;
+	width: 80%;
+	height: 50%;
+	}
+	.md-1 {
+		width: 8.33%
+	}
+	.md-2 {
+		width: 16.66%
+	}
+	.md-3 {
+		width: 25%
+	}
+	.md-4 {
+		width: 33%
+	}
+	.md-5 {
+		width: 41.66%
+	}
+	.md-6 {
+		width: 50%
+	}
+	.md-7 {
+		width: 58.33%
+	}
+	.md-8 {
+		width: 66.66%
+	}
+	.md-9 {
+		width: 74.99%
+	}
+	.md-10 {
+		width: 83.33%
+	}
+	.md-11 {
+		width: 91.66%
+	}
+	.md-12 {
+		width: 100%
+	}
+}
+@media (max-width: 767px) {.li-1, .li-2, .li-3, .li-4, .li-5, .li-6, .li-7, .li-8, .li-9, .li-10, .li-11, .li-12 {
+	float: left;
+	border: 1px solid #000000;
+	padding: 2px;
+	margin: 5px;
+	background-color: #489CC1;
+	width: 80%;
+	height: 50%;
+	}
+	.li-1 {
+		width: 8.33%
+	}
+	.li-2 {
+		width: 16.66%
+	}
+	.li-3 {
+		width: 25%
+	}
+	.li-4 {
+		width: 33%
+	}
+	.li-5 {
+		width: 41.66%
+	}
+	.li-6 {
+		width: 50%
+	}
+	.li-7 {
+		width: 58.33%
+	}
+	.li-8 {
+		width: 66.66%
+	}
+	.li-9 {
+		width: 74.99%
+	}
+	.li-10 {
+		width: 83.33%
+	}
+	.li-11 {
+		width: 91.66%
+	}
+	.li-12 {
+		width: 100%
+	}
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 25px;
+}
+
+#subtitle1 {
+	position: relative;
+	width: 90px;
+	float: right;
+	margin-top: 0px;
+	background-color: #6B62CE;
+	border: 1px red solid;
+	font-size: 75%;
+}
+#subtitle2 {
+	position: relative;
+	width: 55px;
+	float: right;
+	margin-top: 0px;
+	background-color: #AF99AD;
+	border: 1px red solid;
+	font-size: 75%;
+}
+#subtitle3 {
+	position: relative;
+	width: 55px;
+	float: right;
+	margin-top: 0px;
+	background-color: #84EFE2;
+	border: 1px red solid;
+	font-size: 75%;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 125%;
+}
+
+
+</style>
